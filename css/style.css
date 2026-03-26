@@ -1,5 +1,35 @@
 .cor-nome {
-  color: rgb(13, 4, 95);
+  color: rgb(0, 58, 41);
+}
+
+.cor-subtítulo {
+  color: rgb(13, 134, 94);
+}
+
+.fonte-título {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fonte-subtítulo {
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+}
+
+.espaçamento-texto {
+  margin-right: 200px;
+}
+
+.posição-texto {
+  margin-left: 200px;
+}
+
+.espaçamento-título {
+  margin-right: 100px;
+}
+
+.posição-título {
+  margin-left: 300px;
 }
 
 body {
