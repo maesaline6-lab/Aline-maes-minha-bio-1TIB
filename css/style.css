@@ -16,20 +16,9 @@
     Arial, sans-serif;
 }
 
-.espaçamento-texto {
-  margin-right: 200px;
-}
-
-.posição-texto {
-  margin-left: 200px;
-}
-
-.espaçamento-título {
-  margin-right: 100px;
-}
-
-.posição-título {
-  margin-left: 300px;
+.espaçamento {
+  margin-right: 300px;
+  margin-left: 400px;
 }
 
 body {
